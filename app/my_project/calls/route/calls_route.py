@@ -1,4 +1,3 @@
-# app/my_project/calls/route/call_route.py
 from flask import Blueprint, Response, jsonify
 import json
 from app.my_project.rescuers.service.rescuer_service import RescuerService
